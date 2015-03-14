@@ -1,1 +1,25 @@
 /* CSS declarations go here */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:3%;
+    margin-top:1%;
+    max-width: 70%;
+}
+
+@font-face{
+    font-family: "KBZipaDeeDooDah";
+    src: 'KBZipaDeeDooDah.ttf',
+}
+
+.text {
+
+    max-width: 85%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "KBZipaDeeDooDah";
+    font-size: 20px;
+}
+
